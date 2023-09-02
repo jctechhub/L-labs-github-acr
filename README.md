@@ -1,3 +1,8 @@
+# Source: 
+This is the lab from Udemy: Deploy a Containerized Weather App Using GitHub Actions and Azure Container Registry
+
+https://gtp.udemy.com/labs/deploy-a-containerized-weather-app-using-github-actions-and-azure-container-registry/overview/
+
 # Repository for the GitHub Actions and ACR Lab
  
 Deploy a Containerized Weather App using GitHub Actions and Azure Container Registry
